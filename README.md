@@ -5,3 +5,4 @@
 - ⚔ 백준 https://www.acmicpc.net/user/pos06098
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingApe9)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingApe9&hide=contribs,prs&show_icons=true&theme=synthwave)
