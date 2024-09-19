@@ -1,4 +1,4 @@
-<div align=center><h1>📚 My Stacks</h1></div>
+<div align=center><h1>📚 Stacks</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -11,6 +11,8 @@
   <br>
 </div>
 
----
-![](https://github-readme-stats.vercel.app/api?username=CodingApe9&hide=contribs,prs&show_icons=true&theme=synthwave)
+<br>
+
 [![](https://velog-readme-stats.vercel.app/api?name=codingape9)](https://velog.io/@codingape9/posts)
+![](https://github-readme-stats.vercel.app/api?username=CodingApe9&hide=contribs,prs&show_icons=true&theme=synthwave)
+
